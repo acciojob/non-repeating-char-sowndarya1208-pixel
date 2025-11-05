@@ -16,9 +16,9 @@ const freq = {};
 
 			
 		
-	}
+	
 
 
-const input = prompt("aabbcdd");
+const input = prompt("Name of string");
 alert(firstNonRepeatedChar(input)); 
-console. log(firstNonRepeatedChar(input));
+console. log(firstNonRepeatedChar('aabbcdd'));
